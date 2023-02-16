@@ -1,0 +1,69 @@
+* {
+    max-width: 700px;
+    margin: auto;
+    background-color: black;
+    color: white;
+  }
+  
+  
+  /*body {
+      min-width: 500px;
+  }*/
+  
+  div {
+    border-radius: 5px;
+  }
+  
+  
+
+  
+  
+  #title {
+    margin-left: 3%;
+  }
+  
+  
+  
+  
+  
+  
+  .stuff {
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 55%;
+    height: 1000px;
+  }
+  
+ 
+  
+  .head {
+    font-size: 50px;
+  }
+
+  .name {
+    font-size: 70px;
+  }
+  
+  #name {
+    font-family: Sacramento;
+    float: right;
+    margin-top: 10px;
+    margin-right: 4%;
+  }
+  
+  
+  .name {
+    color: aqua;
+  }
+
+  .head {
+    color: aqua;
+  }
+
+  .font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+  }
+  
+  
